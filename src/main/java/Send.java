@@ -3,7 +3,7 @@ import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.Channel;
 
 /**
- * Created by joydebbarman on 4/8/16.
+ * Created by joydebbarman on 4/8/16. xyz
  */
 public class Send {
     private final static String QUEUE_NAME = "postoffice";
