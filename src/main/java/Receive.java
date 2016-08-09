@@ -3,7 +3,8 @@ import com.rabbitmq.client.*;
 import java.io.IOException;
 
 /**
- * Created by joydebbarman on 4/8/16.
+ * Created by joydebbarman on 4/8/16. Branching done qwerty
+Working great!
  */
 public class Receive {
     private final static String QUEUE_NAME = "postoffice";
